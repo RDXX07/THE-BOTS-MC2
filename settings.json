@@ -1,7 +1,7 @@
 {
   "name": "TIYOG_BHAI",
   "bot-account": {
-    "username": "TIYOG_BHAI",
+    "username": "solocloudhosting",
     "password": "",
     "type": "offline"
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "join discord discord.gg/cryoxplay",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
