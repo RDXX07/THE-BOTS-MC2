@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "mkplayz_net.aternos.me",
+    "port": 15628,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "WELCOME TO CRYOXPLAYZZ:heart:",
+        ":heart:WELCOME TO CRYOXPLAYZZ:heart:",
         "THANKS FOR PLAYING WOTH US AND SUPPORT US",
         "IF YOU FIND SOMETHING BUG OR IMRPOVE SAY ON /found or /feedback"
       ]
