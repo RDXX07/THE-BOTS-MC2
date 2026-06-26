@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "SYNTAX_ERROR",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "WELCOME TO CRYOXPLAYZZ:heart:",
+        "THANKS FOR PLAYING WOTH US AND SUPPORT US",
+        "IF YOU FIND SOMETHING BUG OR IMRPOVE SAY ON /found or /feedback"
       ]
     },
     "chat-log": true,
