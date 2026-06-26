@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "TIYOG_BHAI",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "TIYOG_BHAI",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "mkplayz_net.aternos.me",
+    "port": 15628,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        ":heart:HEY IF YOU HAVE AN PROMBLE SAY ON FEEDBACK:heart:",
+        ":heart:SERVER WILL HELP YOU IF YOU HAVE AN PROMBLE ON SERVER OR HACK:heart:",
+        "
       ]
     },
     "chat-log": true,
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 6,
       "speed": 3000
     },
     "look-around": {
@@ -58,7 +58,7 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": true,
     "beds": false,
     "chat": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "",
+    "webhookUrl": "join discord discord.gg/cryoxplay",
     "events": {
       "connect": true,
       "disconnect": true,
